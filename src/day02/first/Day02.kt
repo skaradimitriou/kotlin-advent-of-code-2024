@@ -3,8 +3,8 @@ package day02.first
 import readInput
 
 
-const val TEST_DATA = "day02/day02_test_data"
-const val ACTUAL_DATA = "day02/day02_actual_data"
+private const val TEST_DATA = "day02/day02_test_data"
+private const val ACTUAL_DATA = "day02/day02_actual_data"
 
 
 enum class Mode {

@@ -2,8 +2,8 @@ package day01.first
 
 import readInput
 
-const val TEST_DATA = "day01/day01_test_data"
-const val ACTUAL_DATA = "day01/day01_actual_data"
+private const val TEST_DATA = "day01/day01_test_data"
+private const val ACTUAL_DATA = "day01/day01_actual_data"
 
 fun main() {
     println("DAY 03 Challenge (First Part)...")
